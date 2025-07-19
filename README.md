@@ -1,4 +1,4 @@
-# 🧠 KHIMATLAB – MATLAB Optimization & Research
+# 🧠 KHIMAT – MATLAB Optimization & Research
 
 This repository contains my personal and academic research work in MATLAB, focusing on:
 - Multi-Objective Optimization (ZDT, DTLZ, CTP)
